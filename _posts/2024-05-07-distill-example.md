@@ -5,10 +5,11 @@ description: Your blog post's abstract.
   Please add your abstract or summary here and not in the main body of your text. 
   Do not include math/latex or hyperlinks.
 date: 2024-05-07
-tags: formatting RL
+tags: formatting RL distill
 future: true
 htmlwidgets: true
 related_posts: false
+featured: true
 # Anonymize when submitting
 authors:
   - name: Anonymous
