@@ -8,23 +8,23 @@ date: 2024-05-07
 future: true
 htmlwidgets: true
 
-Anonymize when submitting
-authors:
-  - name: Anonymous
-
+# Anonymize when submitting
 # authors:
-#   - name: Albert Einstein
-#     url: "https://en.wikipedia.org/wiki/Albert_Einstein"
-#     affiliations:
-#       name: IAS, Princeton
-#   - name: Boris Podolsky
-#     url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
-#     affiliations:
-#       name: IAS, Princeton
-#   - name: Nathan Rosen
-#     url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
-#     affiliations:
-#       name: IAS, Princeton
+#   - name: Anonymous
+
+authors:
+  - name: Albert Einstein
+    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
+    affiliations:
+      name: IAS, Princeton
+  - name: Boris Podolsky
+    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
+    affiliations:
+      name: IAS, Princeton
+  - name: Nathan Rosen
+    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
+    affiliations:
+      name: IAS, Princeton
 
 # must be the exact same name as your blogpost
 bibliography: 2024-05-07-distill-example.bib  
@@ -45,7 +45,6 @@ toc:
   - name: Tweets
   - name: Layouts
   - name: Other Typography?
-  - name: How are we feeling?
 
 # Below is an example of injecting additional post-specific styles.
 # This is used in the 'Layouts' section of this post.
@@ -451,7 +450,3 @@ This line is separated from the one above by two newlines, so it will be a *sepa
 
 This line is also a separate paragraph, but...
 This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
-
-## How are we feeling?
-
-I am feeling good like I dunno....
