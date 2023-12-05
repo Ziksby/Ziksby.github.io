@@ -7,9 +7,7 @@ description: Your blog post's abstract.
 date: 2024-05-07
 tags: formatting RL distill
 future: true
-htmlwidgets: true
-related_posts: false
-featured: true
+
 # Anonymize when submitting
 authors:
   - name: Anonymous
