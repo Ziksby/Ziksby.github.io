@@ -6,6 +6,7 @@ description: Your blog post's abstract.
   Do not include math/latex or hyperlinks.
 date: 2024-05-07
 tags: formatting RL distill
+categories: sample-posts
 future: true
 
 # Anonymize when submitting
