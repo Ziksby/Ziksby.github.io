@@ -4,10 +4,10 @@ title: ICLR BLOG POST
 description: Your blog post's abstract.
   Please add your abstract or summary here and not in the main body of your text. 
   Do not include math/latex or hyperlinks.
-date: 2024-05-07
+date: 2023-12-01
 tags: formatting RL distill
 categories: sample-posts
-future: true
+featured: true
 
 
 # Anonymize when submitting
@@ -29,7 +29,7 @@ authors:
 #       name: IAS, Princeton
 
 # must be the exact same name as your blogpost
-bibliography: 2024-05-07-distill-example.bib  
+bibliography: 2023-12-01-distill-example.bib  
 
 # Add a table of contents to your post.
 #   - make sure that TOC names match the actual section names
