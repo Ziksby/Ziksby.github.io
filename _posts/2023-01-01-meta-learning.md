@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: My distill
+title: meta-learning
 description: an example of a distill-style blog post and main elements
 tags: distill formatting
 giscus_comments: true
