@@ -36,18 +36,6 @@ bibliography: 2023-12-01-distill-example.bib
 #     for hyperlinks within the post to work correctly. 
 #   - please use this format rather than manually creating a markdown table of contents.
 toc:
-  - name: Introduction
-  - name: Meta-learning curiosity algorithms
-  - name: Experiments
-  - name: Results
+  - name: Equations
 ---
-## Introduction
-
-Here is an introduction
-
-## Meta-learning curiosity algorithms
-Coming soon to a pull request near you!
-## Experiments
-Coming soon to a pull request near you!
-## Results
-Coming soon to a pull request near you!
+## Equations
