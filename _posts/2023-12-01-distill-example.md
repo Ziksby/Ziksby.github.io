@@ -36,29 +36,6 @@ bibliography: 2023-12-01-distill-example.bib
 #     for hyperlinks within the post to work correctly. 
 #   - please use this format rather than manually creating a markdown table of contents.
 toc:
-  - name: Introduction
-    - name: Reinforcement Learning
-    - name: Meta Reinforcement Learning
-    - name: Curiosity
-  - name: Meta-learning curiosity algorithms
-    - name: Method
-    - name: FAST
-    - name: ICCM
-  - name: Conclusion
-
-_styles: >
-  .fake-img {
-    background: #bbb;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1);
-    margin-bottom: 12px;
-  }
-  .fake-img p {
-    font-family: monospace;
-    color: white;
-    text-align: left;
-    margin: 12px 0;
-    text-align: center;
-    font-size: 16px;
-  }
+  - name: Equations
 ---
+## Equations
