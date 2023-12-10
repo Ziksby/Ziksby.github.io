@@ -36,6 +36,51 @@ bibliography: 2023-12-01-distill-example.bib
 #     for hyperlinks within the post to work correctly. 
 #   - please use this format rather than manually creating a markdown table of contents.
 toc:
-  - name: Equations
+  - name: Introduction
+    subsections:
+    - name: Reinforcement Learning
+    - name: Meta Reinforcement Learning
+    - name: Curiosity
+  - name: Meta-learning curiosity algorithms
+    subsections:
+    - name: Method
+    - name: FAST
+    - name: ICCM
+  - name: Conclusion
 ---
-## Equations
+
+## Introduction
+
+This is the introduction. You can include some text here to introduce the topic.
+
+### Reinforcement Learning
+
+Briefly explain what reinforcement learning is and its significance.
+
+### Meta Reinforcement Learning
+
+Provide an overview of meta reinforcement learning and its relevance to the topic.
+
+### Curiosity
+
+Introduce the concept of curiosity in the context of learning algorithms.
+
+## Meta-learning Curiosity Algorithms
+
+This section delves into the meta-learning curiosity algorithms. You can explain the methods, including FAST and ICCM.
+
+### Method
+
+Describe the overall method used in implementing the algorithms from the paper.
+
+### FAST
+
+Provide details about the FAST algorithm and its role in meta-learning curiosity.
+
+### ICCM
+
+Explain the ICCM algorithm and how it contributes to the meta-learning approach.
+
+## Conclusion
+
+Summarize the key points discussed in the blog post and conclude with any final thoughts or reflections.s
