@@ -2,7 +2,7 @@
 layout: distill
 title: Exploring Meta-learned Curiosity Algorithms
 description: Hand-designed curiosity algorithms, such as Random Network Distillation, have been used to encourage meaningful exploration in reinforcement
- learning agents. However, in their ICLR 2020 paper, Alet et al. introduced a unique approach to meta-learning curiosity algorithms. Instead of meta-learning neural network weights, the focus is on meta-learning pieces of code to discover new curiosity algorithms. This was not just done to increase generalisation
+ learning agents. However, in their ICLR 2020 paper, Alet et al. introduced a unique approach to meta-learning curiosity algorithms. Instead of meta-learning neural network weights, the focus is on meta-learning pieces of code to discover new curiosity algorithms. This was not just done to increase the generalisation
  capabilities of these discovered curiosity algorithms but to also make them interpretable by humans. In this blog post we explore the two algorithms that were meta-learned, namely Fast Action Space Transition (FAST) and Cycle-Consistency Intrinsic Motivation (CCIM).
 date: 2023-12-01
 tags: formatting RL distill
